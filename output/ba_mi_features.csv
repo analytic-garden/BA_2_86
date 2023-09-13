@@ -1,0 +1,6 @@
+alignment columns,reference positions,A,C,G,T,insertions,other,ref_nucleotide,consensus_nucleotide,consensus %,alt_nucleotide,feature_type,codon,ref_aa,alt_codons,alt_aas,aa_pos,mutation,product,notes
+2527,2527,26,0,73,0,0,0,G,G,73.73737373737373,A,mat_peptide,GAG,E,GAA,E,574.0,E574E,nsp2,produced by both pp1a and pp1ab
+3177,3177,0,73,0,26,0,0,C,C,73.73737373737373,T,mat_peptide,CCT,P,CTT,L,153.0,P153L,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6183,6183,23,0,74,0,0,2,A,G,76.28865979381443,G,mat_peptide,AAA,K,AGA,R,1155.0,K1155R,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+12815,12815,0,23,0,75,0,1,C,T,76.53061224489795,T,mat_peptide,CTG,L,TTG,L,44.0,L44L,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+2127,2127,63,0,35,0,0,1,A,A,64.28571428571429,G,mat_peptide,TAT,Y,TGT,C,441.0,Y441C,nsp2,produced by both pp1a and pp1ab
